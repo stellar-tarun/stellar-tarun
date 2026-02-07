@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hey, I’m Tarun
 
-<!--
-**stellar-tarun/stellar-tarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a curious and disciplined learner who enjoys understanding how things work and improving a little every day. I like building logic, solving problems, and turning ideas into working code.
 
-Here are some ideas to get you started:
+## 🚀 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Problem solving and logical thinking
+
+Data Structures & Algorithms
+
+Python and building small projects
+
+Web development fundamentals
+
+Exploring AI/ML concepts
+
+Space, science, and future tech
+
+## 🛠 What I’ve done so far
+
+Practiced DSA problems and core programming concepts
+
+Built beginner to intermediate Python projects
+
+Worked on logic-based programs and mini systems
+
+Learned HTML, CSS, and JavaScript basics
+
+Explored tools and workflows used in real-world development
+
+This GitHub is where I share my learning, experiments, and progress as I grow—one commit at a time.
+Always learning. Always building. 🚀
